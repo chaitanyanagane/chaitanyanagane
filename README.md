@@ -259,36 +259,6 @@ Co-founded and operate a digital agency delivering websites, brand identities, a
 
 <div align="center">
 
-## 💬 Random Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<!--
-  SETUP INSTRUCTIONS FOR SNAKE ANIMATION:
-  1. In your chaitanyanagane/chaitanyanagane repo, add a GitHub Action
-     using Platane/snk@v3 that outputs to a branch named "output".
-  2. The generated SVG will appear at the path referenced below once
-     the workflow runs successfully.
--->
-
-<img src="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/divider.svg" width="100%" height="2" alt=""/>
-
-<div align="center">
-
 ## 📫 Let's Connect
 
 I'm always open to discussing AI/ML projects, full-stack development, freelance opportunities, or just talking tech over a good cup of coffee.
