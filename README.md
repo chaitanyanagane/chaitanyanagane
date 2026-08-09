@@ -247,18 +247,6 @@ Co-founded and operate a digital agency delivering websites, brand identities, a
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyanagane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/divider.svg" width="100%" height="2" alt=""/>
-
-<div align="center">
-
 ## 📫 Let's Connect
 
 I'm always open to discussing AI/ML projects, full-stack development, freelance opportunities, or just talking tech over a good cup of coffee.
