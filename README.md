@@ -2,28 +2,22 @@
   ================================================================
   GitHub Profile README — Chaitanya Nagane
   ================================================================
-  HOW TO USE:
-  1. Create a new public repository named exactly "chaitanyanagane"
-     (must match your GitHub username) and place this file as README.md
-     in the root — GitHub will render it on your profile page.
-  2. Replace the placeholder links marked with 🔧 REPLACE below with
-     your real links (LinkedIn, portfolio, resume PDF, etc.)
-  3. All stat widgets already use the username "chaitanyanagane".
-     If your actual GitHub handle differs, find/replace it throughout.
-  4. The snake animation requires a GitHub Action — instructions are
-     in the "Contribution Snake" section comment near the bottom.
-  ================================================================
 -->
 
 <div align="center">
 
 <!-- ===================== SVG WAVE HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=CHAITANYA%20NAGANE&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20ENGINEER%20•%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=b9b9ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=CHAITANYA%20NAGANE&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20•%20AI%2FML%20ENGINEER&descAlignY=58&descSize=18&descColor=b9b9ff" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://github.com/chaitanyanagane">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8A7CFF&center=true&vCenter=true&width=780&lines=Building+intelligent+software+with+clean+design;Scalable+architecture+%7C+Modern+technologies;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer+%7C+Next.js+%2B+Python;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8A7CFF&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+Next.js+%2B+TypeScript+%2B+FastAPI;AI%2FML+Engineer+%7C+NLP+%26+Applied+Machine+Learning;Co-Founder+%40+Dev+Studio;Building+intelligent+software+with+clean+design;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- 🔧 This badge signals internship availability — remove or edit once you're no longer looking -->
+<img src="https://img.shields.io/badge/🟢_Open_to-Full--Stack_%2F_AI--ML_Internships-1E90FF?style=for-the-badge&labelColor=0f0c29" />
 
 <br/>
 
@@ -38,7 +32,7 @@
 <a href="mailto:chaitanyanagane1726@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://drive.google.com/YOUR_RESUME_FILE_ID/view"> <!-- 🔧 REPLACE with your hosted resume link -->
+<a href="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/Chaitanya_Nagane_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-1E90FF?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 </div>
@@ -60,13 +54,15 @@
 
 <h3>👋 Hey, I'm Chaitanya</h3>
 
-I build software at the intersection of **AI/ML** and **full-stack engineering** — training models on one end, shipping production web apps on the other.
+I build software at the intersection of **full-stack engineering** and **applied AI/ML** — shipping production web apps on one end, training and deploying models on the other.
 
-Currently a B.E. student in **Artificial Intelligence & Machine Learning** at **PES Modern College of Engineering, Pune**, and co-founder of **Dev Studio**, where I help businesses design and ship high-performing digital products.
+Currently a final-year B.E. student in **Artificial Intelligence & Machine Learning** at **PES Modern College of Engineering, Pune**, and co-founder of **Dev Studio**, where I help businesses design and ship high-performing digital products.
+
+My flagship project, **HireSense**, is a full-stack resume screening platform (React/TypeScript/Vite + FastAPI). Alongside it, I'm building two final-year projects: **ContextGraph**, a cross-AI personal context engine built on Next.js, Supabase, and the Model Context Protocol, and **Suraksha**, a real-time NLP tool that detects social-engineering scam patterns in UPI payment messages.
 
 What drives me is the full loop — going from a rough idea to a deployed, working product. I'm not just interested in *what* to build, but *how* to build it right: clean architecture, scalable code, thoughtful UX.
 
-**🎯 Long-term goal:** grow into an AI/Software Engineer building products with real, measurable impact.
+**🎯 Currently:** open to full-stack / AI-ML internship opportunities where I can apply this across real products.
 
 </td>
 <td width="45%" valign="top">
@@ -75,13 +71,13 @@ What drives me is the full loop — going from a rough idea to a deployed, worki
 
 | | |
 |---|---|
-| 🎓 | B.E. in AI & Machine Learning |
+| 🎓 | Final-year B.E., AI & Machine Learning |
 | 🏫 | PES Modern College of Engineering, Pune |
 | 📍 | Pune, Maharashtra, India |
 | 💼 | Co-Founder @ Dev Studio |
-| 🧠 | Currently deep in NLP + System Design |
-| 🛠️ | Full-stack: Next.js, TypeScript, Python |
-| ☕ | Fueled by coffee and clean commits |
+| 🚀 | Flagship: HireSense (resume screening platform) |
+| 🔬 | Final-year: ContextGraph + Suraksha |
+| 🛠️ | Full-stack: Next.js, TypeScript, FastAPI |
 
 </td>
 </tr>
@@ -93,12 +89,57 @@ What drives me is the full loop — going from a rough idea to a deployed, worki
 
 ### 🎯 Currently Exploring
 
-<img src="https://img.shields.io/badge/Advanced_NLP-0f0c29?style=flat-square&logo=OpenAI&logoColor=8A7CFF&labelColor=302b63" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol-0f0c29?style=flat-square&logo=OpenAI&logoColor=8A7CFF&labelColor=302b63" />
+<img src="https://img.shields.io/badge/FastAPI_%2B_JWT%2FRBAC-0f0c29?style=flat-square&logo=fastapi&logoColor=8A7CFF&labelColor=302b63" />
+<img src="https://img.shields.io/badge/Multilingual_NLP-0f0c29?style=flat-square&logo=googletranslate&logoColor=8A7CFF&labelColor=302b63" />
 <img src="https://img.shields.io/badge/System_Design-0f0c29?style=flat-square&logo=nginx&logoColor=8A7CFF&labelColor=302b63" />
-<img src="https://img.shields.io/badge/Next.js_App_Router-0f0c29?style=flat-square&logo=nextdotjs&logoColor=8A7CFF&labelColor=302b63" />
-<img src="https://img.shields.io/badge/Cloud_Deployment-0f0c29?style=flat-square&logo=amazonaws&logoColor=8A7CFF&labelColor=302b63" />
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/divider.svg" width="100%" height="2" alt=""/>
+
+<div align="center">
+
+## 📄 Resume
+
+<a href="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/Chaitanya_Nagane_Resume.pdf">
+  <img src="https://img.shields.io/badge/View_Full_Resume-1E90FF?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+- B.E. AI & Machine Learning, PES Modern College of Engineering, Pune — CGPA 7.60/10, expected 2027
+- HSC: 72% · SSC: 92% · MHT-CET: 93.24 percentile
+
+**💼 Experience**
+- Co-Founder, Dev Studio — March 2026 – Present
+- Freelance Web Developer (Saachi Tours & Travels) — June – July 2026
+- NSS Volunteer — community service & social awareness initiatives
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Core Skills**
+- Languages: Python, C++, Java
+- Web: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- Databases: SQL, MySQL
+- Concepts: DSA (learning), DBMS, Computer Networks, OS, Software Engineering, AI & ML
+
+**📌 Highlighted Work**
+- Built HireSense, a full-stack resume screening platform (React/TS/Vite + FastAPI)
+- Building ContextGraph & Suraksha as final-year projects — MCP infra and multilingual scam-detection NLP
+- Shipped Saachi Tours & Travels and the Dev Studio agency site end-to-end, in production
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -169,59 +210,84 @@ What drives me is the full loop — going from a rough idea to a deployed, worki
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Travel Agency Platform
-**Saachi Tours & Travels**
+### 🎯 HireSense <sub><i>(flagship project)</i></sub>
+**AI-Powered Resume Screening Platform**
 
-A full-stack travel booking platform built with a modern server-rendered architecture, featuring dynamic package listings, destination galleries, and a type-safe backend.
+![Status](https://img.shields.io/badge/status-shipped-2ea44f?style=flat-square)
 
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Tailwind CSS
+A full-stack platform that parses, scores, and ranks resumes against job descriptions, with role-based access for recruiters and candidates.
+
+**Stack:** React · TypeScript · Vite · FastAPI · JWT / RBAC
 
 <!-- 🔧 REPLACE with your live project link and repo link -->
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8A7CFF?style=flat-square&logo=vercel&logoColor=white)](https://travel-agency-three-orpin.vercel.app)
-[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/travel-agency)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8A7CFF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/chaitanyanagane/hiresense-ai)
+[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/hiresense-ai)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Screening System
-**Automated Candidate Shortlisting**
+### 🛡️ Suraksha <sub><i>(final-year project)</i></sub>
+**Real-Time UPI Scam Detection**
 
-An NLP-powered system that parses, scores, and ranks resumes against job descriptions using machine learning, wrapped in an interactive Streamlit interface.
+![Status](https://img.shields.io/badge/status-in%20progress-8A7CFF?style=flat-square)
 
-**Stack:** Python · NLP · Machine Learning · Streamlit
+An NLP tool that flags social-engineering patterns in Marathi, Hindi, and English payment messages in real time, with SHAP-based explainability for every flagged message.
 
-<!-- 🔧 REPLACE with your live project link and repo link -->
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8A7CFF?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/chaitanyanagane/ai-resume-screening)
-[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/ai-resume-screening)
+**Stack:** Next.js · FastAPI · IndicBERT / mBERT · SHAP
+
+<!-- 🔧 REPLACE with your repo link once public -->
+[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/suraksha)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Personal Portfolio Website
-**Interactive Developer Showcase**
+### 🧠 ContextGraph <sub><i>(final-year project)</i></sub>
+**A Cross-AI Personal Context Engine**
 
-A themed, animation-rich personal portfolio built to showcase projects, skills, and experience with smooth motion design and a distinctive visual identity.
+![Status](https://img.shields.io/badge/status-in%20progress-8A7CFF?style=flat-square)
 
-**Stack:** React · Next.js · Framer Motion
+A structured context graph that stores identity, stack, and project knowledge once — readable and updatable by any MCP-compatible AI through a personal API key, with a live 3D graph visualization.
 
-<!-- 🔧 REPLACE with your live project link and repo link -->
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8A7CFF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/chaitanyanagane/personal-portfolio)
-[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/personal-portfolio)
+**Stack:** Next.js · Supabase · Better Auth · MCP · react-force-graph-3d
+
+<!-- 🔧 REPLACE with your repo link once public -->
+[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/contextgraph)
 
 </td>
 <td width="50%" valign="top">
 
+### 🌍 Saachi Tours & Travels
+**Travel Agency Platform**
+
+![Status](https://img.shields.io/badge/status-shipped-2ea44f?style=flat-square)
+
+A full-stack travel booking platform with dynamic package listings, destination pages, and a headless CMS-driven content layer, deployed and maintained in production.
+
+**Stack:** Next.js · Sanity CMS · Resend · Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8A7CFF?style=flat-square&logo=vercel&logoColor=white)](https://travel-agency-three-orpin.vercel.app)
+<!-- 🔧 REPLACE with your repo link -->
+[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/saachi-tours)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top" align="center">
+
 ### 🏢 Dev Studio
-**Web Development & Digital Agency**
+**Web Development & Digital Agency — Co-Founder**
 
-Co-founded and operate a digital agency delivering websites, brand identities, and digital solutions for small businesses and startups, handling everything from strategy to deployment.
+![Status](https://img.shields.io/badge/status-live-2ea44f?style=flat-square)
 
-**Focus:** Client Web Apps · Branding · Full-Stack Delivery
+A premium agency site with a cinematic 3D hero section, glassmorphic UI, and a fully adaptive dark/light theme system — built to deliver client web apps, branding, and full-stack solutions end-to-end.
 
-<!-- 🔧 REPLACE with your agency's live site if available -->
-[![Agency](https://img.shields.io/badge/Dev_Studio-8A7CFF?style=flat-square&logo=todoist&logoColor=white)](https://github.com/chaitanyanagane)
+**Stack:** Next.js · Tailwind CSS · 3D / Scroll Animations
+
+[![Live Site](https://img.shields.io/badge/Live_Site-8A7CFF?style=flat-square&logo=vercel&logoColor=white)](https://dev-studio.in)
+<!-- 🔧 REPLACE with your repo link if the agency site is public -->
+[![Repository](https://img.shields.io/badge/Repository-302b63?style=flat-square&logo=github&logoColor=white)](https://github.com/chaitanyanagane/dev-studio-site)
 
 </td>
 </tr>
@@ -247,6 +313,18 @@ Co-founded and operate a digital agency delivering websites, brand identities, a
 
 <div align="center">
 
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaitanyanagane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/divider.svg" width="100%" height="2" alt=""/>
+
+<div align="center">
+
 ## 📫 Let's Connect
 
 I'm always open to discussing AI/ML projects, full-stack development, freelance opportunities, or just talking tech over a good cup of coffee.
@@ -261,7 +339,7 @@ I'm always open to discussing AI/ML projects, full-stack development, freelance 
 <a href="mailto:chaitanyanagane1726@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://drive.google.com/YOUR_RESUME_FILE_ID/view"> <!-- 🔧 REPLACE with your hosted resume link -->
+<a href="https://raw.githubusercontent.com/chaitanyanagane/chaitanyanagane/main/assets/Chaitanya_Nagane_Resume.pdf">
   <img src="https://img.shields.io/badge/Download_Resume-1E90FF?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 </div>
